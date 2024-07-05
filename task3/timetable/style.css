@@ -1,0 +1,8 @@
+.tables,th,td{
+    border: solid 2px black;
+    border-collapse: collapse;
+    font-size: 25px;
+}
+th,td{
+    padding: 10px;
+}
